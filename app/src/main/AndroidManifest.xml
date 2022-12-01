@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.monir.worldsport">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SportsAll"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name="com.monir.worldsport.Live6"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Live5"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Football_Sports"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Score4"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Score3"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Score2"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Score1"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Football4"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Football3"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Football2"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Football1"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch8"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch7"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch6"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch5"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Sports_Score"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch4"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch3"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch2"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Watch1"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Live4"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Live3"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Live2"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Live1"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Home2"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Home1"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.Home"
+            android:exported="false" />
+        <activity
+            android:name="com.monir.worldsport.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.startapp.sdk.APPLICATION_ID"
+            android:value="207684861" />
+    </application>
+
+</manifest>

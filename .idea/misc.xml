@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SportsAll/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_contact_mail_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_home_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_menu_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_more_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_policy_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_share_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/ic_round_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/drawable/style.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_football1.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_football2.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_football3.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_football4.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_football_sports.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_footballm.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_home.xml" value="0.12" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_home1.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_home2.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live1.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live2.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live3.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live4.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live5.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_live6.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_score1.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_score2.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_score3.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_score4.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_sports_score.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_tsports.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch1.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch2.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch3.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch4.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch5.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch6.xml" value="0.1" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch7.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/activity_watch8.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/content_watch6.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/drawar_head_layout.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/fragment_first.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/layout/fragment_second.xml" value="0.14628623188405798" />
+        <entry key="..\:/SportsAll/app/src/main/res/menu/navigation_menu.xml" value="0.2" />
+        <entry key="..\:/SportsAll/app/src/main/res/xml/network_security_config.xml" value="0.14628623188405798" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".Sports_Score">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_round_arrow_back_24"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:orientation="horizontal"
+                android:weightSum="2"
+
+                >
+
+                <ImageView
+                    android:id="@+id/channel1"
+                    android:layout_width="400dp"
+                    android:layout_height="170dp"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/style"
+                    android:src="@drawable/scoreboard"
+                    android:elevation="10dp" />
+
+                <ImageView
+                    android:id="@+id/channel2"
+                    android:layout_width="400dp"
+                    android:layout_height="170dp"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/scoreboard"
+                    android:background="@drawable/style"
+                    android:elevation="10dp" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="185dp"
+                android:weightSum="2"
+                >
+
+                <ImageView
+                    android:id="@+id/channel3"
+                    android:layout_width="400dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/style"
+                    android:layout_margin="10dp"
+                    android:elevation="10dp"
+                    android:src="@drawable/scoreboard"
+                    android:layout_weight="1"
+                    />
+
+                <ImageView
+                    android:id="@+id/channel4"
+                    android:layout_width="400dp"
+                    android:layout_height="170dp"
+                    android:background="@drawable/style"
+                    android:layout_margin="10dp"
+                    android:elevation="10dp"
+                    android:src="@drawable/scoreboard"
+                    android:layout_weight="1"
+                    />
+
+
+
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+        </RelativeLayout>
+
+
+
+    </ScrollView>
+    <com.startapp.sdk.ads.banner.Banner
+        android:id="@+id/startAppBanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+
+        />
+
+</RelativeLayout>

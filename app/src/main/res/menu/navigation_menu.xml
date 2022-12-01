@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item android:title="Dashbord">
+            <menu>
+
+                <item
+                    android:id="@+id/mHome"
+                    android:icon="@drawable/ic_round_home_24"
+                    android:title="Home" />
+
+                <item
+                    android:id="@+id/mShare"
+                    android:icon="@drawable/ic_round_share_24"
+                    android:title="Share" />
+
+
+                <item
+                    android:id="@+id/mRate"
+                    android:icon="@drawable/ic_round_star_rate_24"
+                    android:title="Rate Me" />
+
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item android:title="More Information">
+
+            <menu>
+                <item
+                    android:id="@+id/mMore"
+                    android:icon="@drawable/ic_round_more_24"
+                    android:title="More App" />
+
+                <item
+                    android:id="@+id/mContact"
+                    android:icon="@drawable/ic_round_policy_24"
+                    android:title="Developer Contact" />
+
+                <item
+                    android:id="@+id/mPolicy"
+                    android:icon="@drawable/ic_round_contact_mail_24"
+                    android:title="Policy" />
+            </menu>
+
+        </item>
+
+    </group>
+</menu>
